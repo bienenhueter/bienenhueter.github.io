@@ -1,0 +1,26 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-wrapper">
+      {%- assign default_paths = site.pages | map: "path" -%}
+      {%- assign page_paths = site.footer_pages | default: default_paths -%}
+      <ul class="footer-pages-list">
+        <li>
+          ©&nbsp;
+          {%- if site.year -%}
+            {{ site.year | escape }}&nbsp;
+          {%- endif -%}
+          {{ site.title | escape }}
+        </li>
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+  </div>
+</div>
+
+</footer>

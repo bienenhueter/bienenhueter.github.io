@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bienenhueter.org ist online!"
+date:   2018-11-28 19:57:26 +0100
+---
+
+Die erste Version von [bienenhueter.org](/) ist online!
