@@ -12,6 +12,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig.
 
+### Sommertracht
+
+Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig.
+
 ## Königinnen
 
 Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig.
