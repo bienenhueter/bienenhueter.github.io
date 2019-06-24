@@ -26,7 +26,7 @@ Wir haben leckeren Honig. Wir haben leckeren Honig. Wir haben leckeren Honig. Wi
 3. Wir haben leckeren Honig.
 1. Wir haben leckeren Honig.
 
-![Wabe](/assets/wabe.jpg)
+[![Wabe](/assets/wabe.jpg)](/assets/wabe.jpg)
 
 ## Königinnen
 
